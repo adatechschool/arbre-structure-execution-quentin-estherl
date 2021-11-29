@@ -1,1 +1,11 @@
 /*css*/
+.responded {
+  color: green;
+}
+.checking,
+.unchecked {
+  color: #ff8c00;
+}
+.timeout {
+  color: red;
+}
